@@ -5,4 +5,4 @@ Krishan
 Branch: CSE
 Track: Backend (Node.js, Express, MongoDB)
 Mentor: Prakhar
-Start date: today's date
+Start date: 01-06-2026
