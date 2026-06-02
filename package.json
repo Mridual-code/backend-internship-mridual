@@ -1,0 +1,24 @@
+{
+  "name": "backend-internship-mridual",
+  "version": "1.0.0",
+  "description": "Intern:\tMridual Krishan\r   Branch:\tCSE\r   Track:\tBackend\t(Node.js,\tExpress,\tMongoDB)\r   Mentor:\tPrakhar\r   Start\tdate:\t01-06-2026\r   This\trepo\twill\thold\tall\tmy\tbackend\tinternship\twork\tover\tthe\tnext\t8\tweeks.",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mridual-code/backend-internship-mridual.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Mridual-code/backend-internship-mridual/issues"
+  },
+  "homepage": "https://github.com/Mridual-code/backend-internship-mridual#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
