@@ -26,3 +26,17 @@ console.log(subtract(10, 3));
 // arrow function 2:
 const divide = (x, y) => x / y;
 console.log(divide(20, 5));
+//callback function 1:
+function greet(name, callback) {
+    console.log("Hello " + name);
+}
+functionbye(){
+    console.log("Goodbye!");
+}greet("Mridul", bye);
+//callback function 2:
+function processUser(callback) {
+    callback();
+}
+processUser(() => {
+    console.log("User processed");
+});
