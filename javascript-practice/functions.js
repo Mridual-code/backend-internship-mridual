@@ -1,10 +1,20 @@
 //function declaration 1:
 function myself(){
-    console.lof("my name is Mridul")
+    console.lof("my name is Mridul");
 }
-myself()
+myself();
  //function declaration 2:
 function add(a,b){
-    return a+b
+    return a+b;
 }
-console.log(add(5,10))
+console.log(add(5,10));
+//function expression 1:
+const greetings = function(name){
+    console.log("Hello " + name);
+}
+greetings("Mridul");
+//function expression 2:
+const multiply= function(x,y){
+    console.log(x*y),
+}
+multiply(5,10);
